@@ -18,4 +18,4 @@ To get started with this project locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Asit-Sahoo/notes-app
+   git clone https://github.com/Saikat5943/notes-app
